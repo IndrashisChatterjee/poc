@@ -1,0 +1,20 @@
+2025-08-21 19:31:58,194 - INFO - SUCCESS: File=CT20182437032_Application.pdf, Words=[], Pages=[0, 1, 2, 3, 4], RemoveImages=True
+2025-08-21 19:32:59,381 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['Password :Iamnats#15'], Pages=[0], RemoveImages=True
+2025-08-21 19:39:17,453 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=[], Pages=[0], RemoveImages=False
+2025-08-21 19:39:47,733 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['Password :Iamnats#15'], Pages=[0], RemoveImages=True
+2025-08-21 19:43:46,830 - INFO - SUCCESS: File=CT20182437032_Application.pdf, Words=[], Pages=[0, 1, 2, 3, 4], RemoveImages=False
+2025-08-21 19:51:06,384 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 19:51:06,663 - INFO - SUCCESS: File=CT20182437032_Application.pdf, Words=['I'], Pages=[0, 1, 2, 3, 4], RemoveImages=True
+2025-08-21 19:59:13,095 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 20:00:13,881 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=False
+2025-08-21 20:00:14,162 - INFO - SUCCESS: File=CT20182437032_Application.pdf, Words=['I'], Pages=[0, 1, 2, 3, 4], RemoveImages=False
+2025-08-21 20:00:29,562 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 20:00:29,829 - INFO - SUCCESS: File=CT20182437032_Application.pdf, Words=['I'], Pages=[0, 1, 2, 3, 4], RemoveImages=True
+2025-08-21 20:00:46,597 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 20:00:46,865 - INFO - SUCCESS: File=CT20182437032_Application.pdf, Words=['I'], Pages=[0, 1, 2, 3, 4], RemoveImages=True
+2025-08-21 20:08:41,647 - INFO - SUCCESS: File=CT20182437032_Application.pdf, Words=['I'], Pages=[0, 1, 2, 3, 4], RemoveImages=False
+2025-08-21 20:08:41,713 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=False
+2025-08-21 20:13:08,280 - INFO - SUCCESS: File=CT20182437032_Application.pdf, Words=['I'], Pages=[0, 1, 2, 3, 4], RemoveImages=True
+2025-08-21 20:13:08,377 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 20:14:59,070 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=False
+2025-08-21 20:15:20,577 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=True

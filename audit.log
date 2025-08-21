@@ -18,3 +18,37 @@
 2025-08-21 20:13:08,377 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=True
 2025-08-21 20:14:59,070 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=False
 2025-08-21 20:15:20,577 - INFO - SUCCESS: File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 20:35:16,230 - INFO - SUCCESS [single]: Client=127.0.0.1, File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=ALL, RemoveImages=True
+2025-08-21 20:35:56,335 - INFO - SUCCESS [single]: Client=127.0.0.1, File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=ALL, RemoveImages=True
+2025-08-21 20:36:54,130 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=ALL, RemoveImages=False
+2025-08-21 20:36:54,366 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=CT20182437032_Application.pdf, Words=['I'], Pages=ALL, RemoveImages=False
+2025-08-21 20:37:14,200 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=ALL, RemoveImages=True
+2025-08-21 20:37:14,464 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=CT20182437032_Application.pdf, Words=['I'], Pages=ALL, RemoveImages=True
+2025-08-21 20:37:53,583 - ERROR - FAILURE [bulk]: Client=127.0.0.1, File=National Apprenticeship Training Scheme (NATS).pdf, Error=Page index out of range
+2025-08-21 20:37:53,598 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=CT20182437032_Application.pdf, Words=['I'], Pages=[1], RemoveImages=True
+2025-08-21 20:38:05,608 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 20:38:05,631 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=CT20182437032_Application.pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 20:54:11,014 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 20:54:11,026 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=CT20182437032_Application.pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 21:04:07,204 - INFO - SUCCESS [single]: Client=127.0.0.1, File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 21:04:54,307 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=National Apprenticeship Training Scheme (NATS).pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 21:04:54,348 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=CT20182437032_Application.pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 21:05:51,743 - ERROR - FAILURE [bulk]: Client=127.0.0.1, File=EAadhaar_xxxxxxxx8613_09102018235117_191143.pdf, Error=document closed or encrypted
+2025-08-21 21:05:51,743 - ERROR - FAILURE [bulk]: Client=127.0.0.1, File=BULK, Error=No valid PDFs were processed
+2025-08-21 21:06:19,219 - ERROR - FAILURE [bulk]: Client=127.0.0.1, File=EAadhaar_xxxxxxxx8613_09102018235117_191143.pdf, Error=document closed or encrypted
+2025-08-21 21:06:19,372 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=admit ic 5th sem.pdf, Words=['I'], Pages=[0], RemoveImages=False
+2025-08-21 21:06:34,057 - ERROR - FAILURE [bulk]: Client=127.0.0.1, File=EAadhaar_xxxxxxxx8613_09102018235117_191143.pdf, Error=document closed or encrypted
+2025-08-21 21:06:34,233 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=admit ic 5th sem.pdf, Words=['I'], Pages=[0], RemoveImages=True
+2025-08-21 22:07:10,623 - ERROR - FAILURE [single]: Client=127.0.0.1, File=test_305_pages.pdf, Error=PDF exceeds 300 pages
+2025-08-21 22:09:10,037 - INFO - SUCCESS [single]: Client=127.0.0.1, File=test_305_pages.pdf, Words=['I'], Pages=ALL, RemoveImages=False
+2025-08-21 22:17:24,473 - INFO - SUCCESS [single]: Client=127.0.0.1, File=test_305_pages.pdf, Words=['I'], Pages=ALL, RemoveImages=False
+2025-08-21 22:18:03,139 - ERROR - FAILURE [single]: Client=127.0.0.1, File=test_full_305_pages.pdf, Error=PDF exceeds 300 pages
+2025-08-21 22:18:50,678 - ERROR - FAILURE [single]: Client=127.0.0.1, File=test_full_305_pages.pdf, Error=PDF exceeds 300 pages
+2025-08-21 22:19:17,533 - ERROR - FAILURE [single]: Client=127.0.0.1, File=test_full_305_pages.pdf, Error=PDF exceeds 300 pages
+2025-08-21 22:24:07,206 - ERROR - FAILURE [single]: Client=127.0.0.1, File=test_full_305_pages.pdf, Error=PDF exceeds 300 pages
+2025-08-21 22:25:54,235 - INFO - SUCCESS [single]: Client=127.0.0.1, File=test_full_305_pages.pdf, Words=['pdf'], Pages=ALL, RemoveImages=False
+2025-08-21 22:45:30,558 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=34.06_09.pdf, Words=['this'], Pages=ALL, RemoveImages=True
+2025-08-21 22:45:31,233 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=drylab.pdf, Words=['this'], Pages=ALL, RemoveImages=True
+2025-08-21 22:45:31,449 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=scientific.pdf, Words=['this'], Pages=ALL, RemoveImages=True
+2025-08-21 22:45:31,524 - INFO - SUCCESS [bulk]: Client=127.0.0.1, File=somatosensory.pdf, Words=['this'], Pages=ALL, RemoveImages=True
+2025-08-21 22:52:09,094 - ERROR - FAILURE [single]: Client=127.0.0.1, File=test_full_305_pages.pdf, Error=PDF exceeds 300 pages
